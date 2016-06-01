@@ -7,7 +7,7 @@
  * generated are identical to the Hashapass.com website. This generator
  * also allows you to specify a custom size for the generated passwords.
  * 
- * (c) Aalaap Ghag <aalaap@gmail.com>
+ * by Aalaap Ghag <aalaap@gmail.com>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
