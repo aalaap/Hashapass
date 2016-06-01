@@ -1,0 +1,22 @@
+{
+    "name": "aalaap/Hashapass",
+    "description": "A hashed password generator, returning passwords identical to Hashapass.com.",
+    "license": "WTFPL",
+    "keywords": ["hashapass"],
+    "authors": [
+        {
+            "name": "Aalaap Ghag",
+            "email": "aalaap@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {"aalaap\\": "src/aalaap"}
+    },
+    "autoload-dev": {
+        "psr-4": {"aalaap\\": "tests/aalaap"}
+    }
+}
