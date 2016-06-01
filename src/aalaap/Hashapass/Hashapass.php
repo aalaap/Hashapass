@@ -1,18 +1,19 @@
 <?php
 
 /*
+ * Hashapass
+ *
  * A password generator based on HMAC-SHA1 and Base64. The passwords
  * generated are identical to the Hashapass.com website. This generator
  * also allows you to specify a custom size for the generated passwords.
  * 
- *
  * (c) Aalaap Ghag <aalaap@gmail.com>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  */
 
-namespace aalaap\Hashapass;
+namespace Aalaap\Hashapass;
  
 class Hashapass
 {

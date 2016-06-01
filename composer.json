@@ -1,5 +1,5 @@
 {
-    "name": "aalaap/Hashapass",
+    "name": "aalaap/hashapass",
     "description": "A hashed password generator, returning passwords identical to Hashapass.com.",
     "license": "WTFPL",
     "keywords": ["hashapass"],

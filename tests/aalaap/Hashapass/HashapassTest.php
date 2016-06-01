@@ -1,6 +1,6 @@
 <?php
 
-use aalaap\Hashapass\Hashapass;
+use Aalaap\Hashapass\Hashapass;
  
 class HashapassTest extends \PHPUnit_Framework_TestCase {
  
