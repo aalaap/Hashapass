@@ -4,10 +4,14 @@
 [![Join the chat at https://gitter.im/aalaap/Hashapass](https://badges.gitter.im/aalaap/Hashapass.svg)](https://gitter.im/aalaap/Hashapass?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Hashapass is a library that generates unique and secure passwords, which are
-a hashed combination of a master password and a variable parameter.
+a hashed combination of a master password and a variable parameter. It's based
+on the webapp [Hashapass](https://hashapass.com).
 
 The algorithm is based on a Base64 encode of the HMAC_SHA1 of the provided
-master password and parameter values.
+master password and parameter values. No proprietory algorithms are used, so
+creating a library like this is be possible in any language that offers Base64
+and HMAC-SHA1 encoding. JavaScript doesn't have these functions built-in, so
+the guys who made Hashapass painstakingly recreated them. It's great code. 
 
 ## Simple Usage
 
