@@ -1,5 +1,5 @@
 ## Hashapass 
-[![Build Status](https://travis-ci.org/aalaap/Hashapass.svg?branch=master)](https://travis-ci.org/aalaap/Hashapass) [![Gitter](https://badges.gitter.im/aalaap/Hashapass.svg)](https://gitter.im/aalaap/Hashapass?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Build Status](https://travis-ci.org/aalaap/Hashapass.svg?branch=master)](https://travis-ci.org/aalaap/Hashapass)
 
 [![Join the chat at https://gitter.im/aalaap/Hashapass](https://badges.gitter.im/aalaap/Hashapass.svg)](https://gitter.im/aalaap/Hashapass?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
