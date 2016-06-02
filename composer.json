@@ -1,6 +1,6 @@
 {
     "name": "aalaap/hashapass",
-    "description": "A hashed password generator, returning passwords identical to Hashapass.com.",
+    "description": "Hashapass is a library that generates unique and secure passwords, which are a hashed combination of a master password and a variable parameter, using Base64 and HMAC-SHA1 encoding.",
     "license": "WTFPL",
     "keywords": ["hashapass"],
     "authors": [
