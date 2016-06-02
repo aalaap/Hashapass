@@ -1,4 +1,5 @@
-## Hashapass
+## Hashapass 
+[![Build Status](https://travis-ci.org/aalaap/Hashapass.svg?branch=master)](https://travis-ci.org/aalaap/Hashapass) [![Gitter](https://badges.gitter.im/aalaap/Hashapass.svg)](https://gitter.im/aalaap/Hashapass?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 Hashapass is a library that generates unique and secure passwords, which are
 a hashed combination of a master password and a variable parameter.
@@ -54,7 +55,8 @@ the length of the generated HMAC_SHA1.
 
 ## Tests
 
-If you want to run the tests, run:
+Hashapass has been tested in PHP 5.4 through PHP 7 and HHVM. If you want to
+run the tests, run:
 
 ```
 vendor/bin/phpunit
