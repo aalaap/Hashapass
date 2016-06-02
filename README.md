@@ -64,6 +64,10 @@ run the tests, run:
 vendor/bin/phpunit
 ```
 
+The code is also PSR-1, PSR-2 and PEAR compliant. You can verify the `src`
+and the `tests` folders against PHP CodeSniffer. The `example.php` file is
+also close to compliant, but fails with 1 error. Wontfix.
+
 ## Contributors
 
 Fork it, work on it, send a PR.
