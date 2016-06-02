@@ -12,10 +12,6 @@ master password and parameter values.
 ## Simple Usage
 
 ```
-<?php
-
-require __DIR__.'/vendor/autoload.php';
-
 use Aalaap\Hashapass\Hashapass;
 
 $hashapass = new Hashapass();
